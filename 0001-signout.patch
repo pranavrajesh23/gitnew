@@ -1,0 +1,24 @@
+From a65d5d4fd29cec939479fd13fe82331ab0192270 Mon Sep 17 00:00:00 2001
+From: pranavrajesh23 <pranav.rajesh@psiog.com>
+Date: Thu, 25 Sep 2025 22:30:04 +0530
+Subject: [PATCH] signout
+
+---
+ login.html | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/login.html b/login.html
+index 544f194..dfd8c0d 100644
+--- a/login.html
++++ b/login.html
+@@ -9,5 +9,6 @@
+     <h1>login </h1>
+     <h1>logout</h1>
+     <h1>signin</h1>
++    <h1>signout</h1>
+ </body>
+ </html>
+\ No newline at end of file
+-- 
+2.50.1.windows.1
+
